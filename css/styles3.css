@@ -1,0 +1,23 @@
+h1 {
+  color: darkblue;
+  text-align: center;
+  background-color:darkturquoise;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+h2 {
+  color: darkblue;
+  font-family:  Calibri,  sans-serif;
+}
+ul {
+  font-style: italic;
+  font-size: 20px;
+  line-height: 20px;
+
+}
+ul {
+  background-color: darkturquoise;
+  color: darkblue;
+}
